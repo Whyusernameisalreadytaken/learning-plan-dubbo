@@ -3,6 +3,9 @@ package com.practice.dubbo.demo.consumer;
 import com.practice.dubbo.demo.service.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * dubbo consumer
+ */
 public class Consumer {
 
     public static void main(String[] args) {
